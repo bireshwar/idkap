@@ -1,0 +1,74 @@
+[
+  {
+    "emailId": "subhankarsaha2411@gmail.com",
+    "roleId": 1,
+    "roleName": "Student",
+    "classDetails": [
+      {
+        "classId": 1,
+        "className": "Class 1",
+        "subjectDetails": [
+          {
+            "subjectId": 1,
+            "subjectName": "Math"
+          },
+          {
+            "subjectId": 2,
+            "subjectName": "Physics"
+          },
+          {
+            "subjectId": 3,
+            "subjectName": "Chemistry"
+          }
+        ]
+      }
+    ],
+    "createdTimeUnix": 1111111,
+    "updatedTimeUnix": 22222222
+  },
+  {
+    "emailId": "subhankarsaha2410@gmail.com",
+    "roleId": 2,
+    "roleName": "Teacher",
+    "classDetails": [
+      {
+        "classId": 1,
+        "className": "Class 1",
+        "subjectDetails": [
+          {
+            "subjectId": 1,
+            "subjectName": "Math"
+          },
+          {
+            "subjectId": 2,
+            "subjectName": "Physics"
+          },
+          {
+            "subjectId": 3,
+            "subjectName": "Chemistry"
+          }
+        ]
+      },
+      {
+        "classId": 10,
+        "className": "Class 10",
+        "subjectDetails": [
+          {
+            "subjectId": 4,
+            "subjectName": "Bengali"
+          },
+          {
+            "subjectId": 5,
+            "subjectName": "English"
+          },
+          {
+            "subjectId": 3,
+            "subjectName": "Chemistry"
+          }
+        ]
+      }
+    ],
+    "createdTimeUnix": 1111111,
+    "updatedTimeUnix": 22222222
+  }
+]

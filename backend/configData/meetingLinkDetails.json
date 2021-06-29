@@ -1,0 +1,12 @@
+[
+  {
+    "classId": 1,
+    "className": "Class 1",
+    "subjectId": 1,
+    "subjectName": "Math",
+    "schoolId": 500,
+    "schoolName": "GCETTB",
+    "meetingLink": "https://meet.google.com/",
+    "isActive": false
+  }
+]

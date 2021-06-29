@@ -1,1 +1,4 @@
 admin/angular-10/node_modules
+admin/angular-10/package-lock.json
+backend/node_modules
+backend/package-lock.json
