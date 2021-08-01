@@ -1,0 +1,20 @@
+[
+    {
+        "userId":1,
+        "emailId": "subhankarsaha2410@gmail.com",
+        "password": "1234",
+        "roleId":1,
+        "roleName":"Student",
+        "firstName":"Subhankar",
+        "lastName":"Saha",
+        "stateId":24,
+        "stateName":"west Bengal",
+        "districtId":12,
+        "district":"Nadia",
+        "schooleId":23,
+        "schoolName":"SJF",
+        "isActive": true,
+        "createdTimeUnix":1622630310,
+        "createdBy":"subhankarsaha2410@gmail.com"
+    }
+]

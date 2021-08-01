@@ -1,0 +1,10 @@
+admin/angular-10/node_modules
+admin/angular-10/package-lock.json
+admin/angular-12/authguard/node_modules
+admin/angular-12/authguard/package-lock.json
+admin/angular-12/main/node_modules
+admin/angular-12/main/package-lock.json
+admin/angular-12/starterkit/node_modules
+admin/angular-12/starterkit/package-lock.json
+backend/node_modules
+backend/package-lock.json
